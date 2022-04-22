@@ -1,0 +1,11 @@
+
+body{
+background-color:rgb(151, 139, 139) !important;
+}
+
+.contact-img{
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+
+}
